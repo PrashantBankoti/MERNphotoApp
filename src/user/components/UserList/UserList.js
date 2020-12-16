@@ -7,7 +7,7 @@ const UserList = (props) => {
   if (props.items.length === 0) {
     return <div className="center">No Users Found</div>;
   }
-  return <ul className="user-list">
+  return <ul className="users-list">
       {props.items.map(user=>{
           return <UserItem 
             key={user.id} 

@@ -6,7 +6,7 @@ const Users = () => {
       id: "u1",
       name: "PrashantBankoti",
       image:
-        "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
       places: 3,
     },
   ];
